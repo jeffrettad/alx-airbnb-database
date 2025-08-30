@@ -1,4 +1,3 @@
-# Task 0: Define Entities and Relationships in ER Diagram
 
 ## 1. Entities and Attributes
 Below are the main entities for the Airbnb-like database and their attributes:
